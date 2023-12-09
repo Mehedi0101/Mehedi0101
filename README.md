@@ -7,8 +7,8 @@
 <br />
 
 <p align="center" style="display: flex;">
-  <img style="margin: 10px" width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi0101&theme=dark&hide_border=true" />
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mehedi0101&theme=dark" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi0101&theme=dark&hide_border=true" />
+  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mehedi0101&theme=dark" />
 </p>
 
 <br />
