@@ -12,6 +12,16 @@
 
 <br />
 
+## 🧐 Current overview
+
+<br />
+
+### 🌐 I’m diving into - Next.js capabilities to implement it in web. 
+### 👨‍👦‍👦 I’m looking - To collaborate on open-source projects.
+### 📚 I’m reading - Tech blogs and articles to stay updated on the latest industry trends and innovations.
+
+<br />
+
 ## 🖥️ Technologies that I know
 
 <br />
@@ -23,10 +33,3 @@
 </p>
 
 <br />
-
-## 🧐 Current overview
-
-<br />
-
-### 🔍 I’m exploring - Next.js for web. 
-### 👨‍👦‍👦 I’m looking - To collaborate on open-source projects. 
