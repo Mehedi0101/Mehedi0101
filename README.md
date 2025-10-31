@@ -6,7 +6,8 @@
 
 **Software Developer | Competitive Programmer**
 
-I'm a software developer who loves building fast, responsive, and user-friendly web apps. I enjoy learning new technologies, solving problems, and always improving my skills.
+I'm a software developer who loves building fast, responsive, and user-friendly web apps.  
+I enjoy learning new technologies, solving problems, and always improving my skills.
 
 ---
 
@@ -28,7 +29,6 @@ I'm a software developer who loves building fast, responsive, and user-friendly 
   <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
   <img title="Vercel" src="https://skillicons.dev/icons?i=vercel" />
   <img title="Python" src="https://skillicons.dev/icons?i=py" />
-  <br/>
 </p>
 
 ---
@@ -37,9 +37,24 @@ I'm a software developer who loves building fast, responsive, and user-friendly 
 
 <br />
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap:2px">
-  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi0101&theme=tokyonight&hide_border=true" /> -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=Mehedi0101&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi0101&layout=compact&theme=tokyonight" />
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mehedi0101&theme=github-dark" />
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap:2px;">
+  <!-- ✅ Primary Streak Stats with Local Fallback -->
+  <img
+    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi0101&theme=tokyonight&hide_border=true"
+    onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/Mehedi0101/Mehedi0101/main/assets/streak-stats.svg';"
+    alt="GitHub Streak Stats"
+  />
+  
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi0101&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+  
+  <img
+    width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mehedi0101&theme=github-dark"
+    alt="GitHub Activity Graph"
+  />
 </p>
