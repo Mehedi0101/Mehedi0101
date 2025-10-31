@@ -2,35 +2,43 @@
 
 <br />
 
-## 📈 Current Stats
+## 👋 Hi, I'm Mehedi Hasan
 
-<br />
+**Software Developer | Competitive Programmer**
 
-<p align="center" style="display: flex">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi0101&theme=dark&hide_border=true&background=#181b1b" />
-  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mehedi0101&theme=dark" />
-</p>
+I'm a software developer who loves building fast, responsive, and user-friendly web apps. I enjoy learning new technologies, solving problems, and always improving my skills.
 
-<br />
+---
 
-## 🧐 Current overview
-
-<br />
-
-### 🌐 I’m diving into - Next.js capabilities to implement it in web. 
-### 👨‍👦‍👦 I’m looking - To collaborate on open-source projects.
-### 📚 I’m reading - Tech blogs and articles to stay updated on the latest industry trends and innovations.
-
-<br />
-
-## 🖥️ Technologies that I know
-
-<br />
+## 🖥️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,firebase,cpp,css,html,nodejs,mongodb,mysql" />
-  </a>
+  <img title="React.js" src="https://skillicons.dev/icons?i=react" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
+  <img title="Express.js" src="https://skillicons.dev/icons?i=express" />
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
+  <img title="C++" src="https://skillicons.dev/icons?i=cpp" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" />
+  <img title="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
+  <img title="Vercel" src="https://skillicons.dev/icons?i=vercel" />
+  <img title="Python" src="https://skillicons.dev/icons?i=py" />
+  <br/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <br />
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap:2px">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Mehedi0101&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi0101&layout=compact&theme=tokyonight" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mehedi0101&theme=github-dark" />
+</p>
